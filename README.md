@@ -4,7 +4,7 @@
 
 This is the code repository for [Hands-On Microservices with Spring Boot and Spring Cloud ](https://www.packtpub.com/web-development/hands-on-microservices-with-spring-boot-and-spring-cloud?utm_source=github&utm_medium=repository&utm_campaign=9781789613476), published by Packt.
 
-**Build and deploy Java microservices using Spring Cloud, Istio, and Kubernetes**
+**使用Spring Cloud，Istio和Kubernetes构建和部署Java微服**
 
 ## What is this book about?
 Microservices architecture allows developers to build and maintain applications with ease, and enterprises are rapidly adopting it to build software using Spring Boot as their default framework. With this book, you’ll learn how to efficiently build and deploy microservices using Spring Boot.
